@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form, table {
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
